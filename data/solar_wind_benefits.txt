@@ -1,0 +1,1 @@
+Solar power generates electricity from sunlight using photovoltaic cells or concentrated solar power. Wind power harnesses wind with turbines to produce electricity. Both technologies reduce reliance on fossil fuels, improve air quality, and have rapidly falling levelized costs in many regions. Deployment can be scaled from distributed rooftop solar to utility-scale farms.

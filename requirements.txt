@@ -1,0 +1,7 @@
+chromadb==0.4.22
+langchain==0.1.20
+sentence-transformers==2.2.2
+google-generativeai
+kaggle  # optional, only if you want to download Kaggle datasets
+huggingface-hub==0.20.3
+python-dotenv

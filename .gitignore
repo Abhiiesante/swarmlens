@@ -1,0 +1,47 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+.conda/
+
+# Environment files / secrets
+.env
+.env.*
+.kaggle/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# VS Code
+.vscode/
+.history/
+
+# Data / vector DB caches
+chroma_db/
+notebooks/chroma_db/
+**/chroma_db/
+**/*.parquet
+**/index.sqlite
+
+# Caches
+.cache/
+**/.cache/
+transformers_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if present)
+node_modules/
